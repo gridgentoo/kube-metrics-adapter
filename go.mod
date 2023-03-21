@@ -13,10 +13,10 @@ require (
 	github.com/onsi/gomega v1.8.1 // indirect
 	github.com/prometheus/client_golang v1.9.0
 	github.com/prometheus/common v0.15.0
-	github.com/sirupsen/logrus v1.7.0
+	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v0.0.7
 	github.com/spyzhov/ajson v0.4.2
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.7.0
 	github.com/zalando-incubator/cluster-lifecycle-manager v0.0.0-20180921141935-824b77fb1f84
 	golang.org/x/crypto v0.0.0-20201124201722-c8d3bf9c5392 // indirect
 	golang.org/x/net v0.0.0-20201224014010-6772e930b67b // indirect
