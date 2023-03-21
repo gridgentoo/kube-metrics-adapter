@@ -1,3 +1,7 @@
+Original reposotory.   
+https://github.com/zalando-incubator/kube-metrics-adapter   
+
+ 
 # kube-metrics-adapter
 [![Build Status](https://travis-ci.org/zalando-incubator/kube-metrics-adapter.svg?branch=master)](https://travis-ci.org/zalando-incubator/kube-metrics-adapter)
 [![Coverage Status](https://coveralls.io/repos/github/zalando-incubator/kube-metrics-adapter/badge.svg?branch=master)](https://coveralls.io/github/zalando-incubator/kube-metrics-adapter?branch=master)
